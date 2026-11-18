@@ -1,0 +1,22 @@
+# Configuration & Secrets
+config.php
+config.local.php
+.env
+.env.*
+
+# Database dumps & backups
+*.sql
+*.sql.gz
+*.bak
+database.sql
+
+# Logs & system files
+*.log
+.DS_Store
+Thumbs.db
+*.txt
+
+# Editor backups
+*.save
+*.save.*
+*.swp
